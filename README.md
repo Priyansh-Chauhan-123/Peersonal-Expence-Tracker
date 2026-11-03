@@ -28,7 +28,8 @@ It helps users manage their daily expenses.
 3. Compile and run the program.
 
 ## Developed By
-Priyansh Chauhan
+NAME: Priyansh Chauhan
+UID : 26BAI10144
 
 ## Project Type
 Mini Project - C Programming
